@@ -1,0 +1,31 @@
+body 
+{
+    min-height: 100vh;
+    margin:0; 
+    display:flex; 
+    flex-direction:column;
+}
+.border-btm 
+{
+    border-bottom: 0.5px solid black;
+}
+.border-top 
+{
+    border-top: 0.5px solid black;
+}
+
+main 
+{
+    flex:1;
+}
+
+footer 
+{
+    margin-top: auto
+}
+
+.d-none 
+{
+    display: none;
+}
+  
