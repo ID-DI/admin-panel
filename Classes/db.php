@@ -4,7 +4,7 @@ class Dbh {
     private $host = "127.0.0.1";
     private $user = "root";
     private $pwd = "";
-    private $dbName = "scandiweb_test";
+    private $dbName = "dataBase";
 
     public function connect() {
         try 
