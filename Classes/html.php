@@ -22,8 +22,8 @@ class HTML
             ' . $bodyContent . '
 
             <footer class="row border-top bg-light">
-            <h5 class="mx-auto text-capitalize justify-content-center my-3">scandiweb test <span
-                    class="text-lowercase">assigment</span></h5>
+            <h5 class="mx-auto text-capitalize justify-content-center my-3">Company name <span
+                    class="text-lowercase">Logo</span></h5>
         </footer>
     
         <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
